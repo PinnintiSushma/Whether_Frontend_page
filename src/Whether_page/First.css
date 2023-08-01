@@ -1,0 +1,29 @@
+.p1{
+    padding: 20px;
+    background: linear-gradient(to right, rgb(220, 236, 240) 75%, rgb(145, 238, 218) 25%);
+    height: 790px;
+   
+}
+.ab{
+    color: rgb(0, 123, 255);
+    font-size: 37px;
+    font-weight:bolder;
+}
+
+.para5{
+    display: flex;
+    justify-content: space-between;
+}
+input::placeholder {
+    font-size: 20px;
+}
+.s4{
+    border-radius:80px 0px 0px 80px;
+     padding-left:33px; 
+     width:280px; 
+     height:40px;
+     background-color: rgb(167, 251, 223);
+      border: none;
+      box-shadow:1px 1px white;
+}
+
